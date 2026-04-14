@@ -2,9 +2,6 @@
 
 本目录收录深圳大学本科毕业论文《**SpaceCloud（太空云）：从大规模太空物体点云中学习语义**》相关的**可复现代码与数据集**，与正文实验流程对应，便于审阅者或后续研究者复现与扩展。
 
-持续更新仓库：[https://github.com/Misaka10875/SpaceCloud](https://github.com/Misaka10875/SpaceCloud)
-
-**说明**：GitHub 上为**代码与文档**；`SpaceCloud/Area_*` 点云数据体积过大，由仓库根目录 **`.gitignore`** 排除。完整数据集请通过论文或作者提供的发布渠道获取，本地解压后放入 `SpaceCloud/` 即可与下文路径一致。
 
 ---
 
