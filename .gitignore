@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+
+# SpaceCloud：仓库内仅保留根目录工具脚本；Area_* 点云数据体积过大，请用网盘 / Zenodo / Hugging Face 等另行分发
+SpaceCloud/Area_*/
+
+# Pointcept：训练产物与本地数据（若存在）
+Pointcept_10lebels/exp/
+Pointcept_10lebels/data/
+Pointcept_10lebels/wandb/
+Pointcept_10lebels/**/__pycache__/
+*.pt
+*.pth
+*.ckpt
+
+# 编辑器与系统
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
